@@ -1,0 +1,35 @@
+[
+    {
+      "Product" : "Shirt",
+       "Price" : 500,
+       "Size" : "L"
+    },
+    {
+        "Product" : "Shirt",
+         "Price" : 800,
+         "Size" : "Xl"
+    },
+    {
+        "Product" : "Shirt",
+         "Price" : 300,
+         "Size" : "M"
+    },
+   {
+        "Product" : "Pant",
+         "Price" : 500,
+         "Size" : "L"
+    },
+    {
+        "Product" : "Pant",
+         "Price" : 700,
+         "Size" : "L"
+    },
+    {
+        "Product" : "Pant",
+         "Price" : 900,
+         "Size" : "XL"
+    }
+]
+
+
+
